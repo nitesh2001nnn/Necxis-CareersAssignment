@@ -43,7 +43,7 @@ const LoginPage = () => {
 
   return (
     <Container>
-      <Typography>To Do app</Typography>
+      <Typography>To Do app 1</Typography>
       <Button onClick={handleLogin}>Sign In With Google</Button>
     </Container>
   );
